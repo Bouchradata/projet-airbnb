@@ -47,10 +47,11 @@ Fichier utilisé ici : `airbnb-listings-simple.csv`
 
 ## Visualisations
 
-*(Ajoute ici tes graphiques après les avoir sauvegardés)*
+## Visualisation – Prix moyen par pays
 
-Exemple :
-![Prix par pays](prix_par_pays.png)
+![Prix moyen par pays](prix_moyen_pays.png)
+
+
 
 ---
 
