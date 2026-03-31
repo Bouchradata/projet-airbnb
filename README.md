@@ -1,8 +1,8 @@
 # Analyse Airbnb - Où investir ?
 
 ## Mise en situation 
-Je suis data analyst pour une agence immobilière. Le directeur veut savoir où investir pour ouvrir des logements Airbnb rentables dans le monde.
-
+Je suis data analyst pour un investisseur immobilier.
+Il souhaite identifier les pays et villes les plus rentables pour investir dans des logements Airbnb à l’échelle mondiale.
 
 ## Objectif
 Analyser les données Airbnb pour identifier les pays et villes les plus rentables afin d'aider à la prise de décision d'investissement.
@@ -23,6 +23,7 @@ Fichier utilisé ici : `airbnb-listings-simple.csv`
 - Python
 - Pandas
 - Matplotlib
+- Tableau
 
 ---
 
