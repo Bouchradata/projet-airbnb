@@ -60,8 +60,8 @@ La moyenne est de 592€ et la médiane est de 597€ sont très proches, ce qui
 Ces éléments confirment que le résultat est fiable et suggèrent que le marché Airbnb au Danemark semble se positionner sur un segment plus cher.
 
 Top 10 des pays avec le plus d'offre 
-![Top pays Airbnb](top_pays_offre_airbnb.png)
 
+![top pays offre airbnb](top_pays_offre_airbnb.png)
 
 ---
 
