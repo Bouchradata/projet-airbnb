@@ -47,7 +47,9 @@ Fichier utilisé ici : `airbnb-listings-simple.csv`
 
 ## Visualisations
 
-## Visualisation – Prix moyen par pays
+## Visualisation – 
+
+Prix moyen par pays
 
 ![Prix moyen par pays](prix_moyen_pays.png)
 
@@ -57,6 +59,8 @@ Le Danemark fait partie des pays avec le plus d’annonces (plus de 20 000), ave
 La moyenne est de 592€ et la médiane est de 597€ sont très proches, ce qui montre qu’il n’y a pas de forte influence de valeurs extrêmes.
 Ces éléments confirment que le résultat est fiable et suggèrent que le marché Airbnb au Danemark semble se positionner sur un segment plus cher.
 
+Top 10 des pays avec le plus d'offre 
+![10 pays avec le plus d'annonce](10_pays_avec_le_plus_d'annonce.png)
 
 
 ---
