@@ -61,7 +61,7 @@ Ces éléments confirment que le résultat est fiable et suggèrent que le march
 
 Top 10 des pays avec le plus d'offre 
 
-![top pays offre airbnb](top_pays_offre_airbnb.png)
+![graphique 10 pays avec le plus d'annonce](graphique—10—pays—avec—le—plus—d—'—annonce.png)
 
 ---
 
