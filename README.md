@@ -1,15 +1,15 @@
-# Analyse Airbnb - Où investir ?
+#  Analyse Airbnb - Où investir ?
 
 ## Mise en situation 
 Je suis data analyst pour un investisseur immobilier.
 Il souhaite identifier les pays et villes les plus rentables pour investir dans des logements Airbnb à l’échelle mondiale.
 
-## Objectif
+##  Objectif
 Analyser les données Airbnb pour identifier les pays et villes les plus rentables afin d'aider à la prise de décision d'investissement.
 
 ---
 
-## Données
+##  Données
 
 Le dataset complet Airbnb 1,94go (https://www.kaggle.com/datasets/joebeachcapital/airbnb) a été utilisé pour réaliser l’analyse.
 
@@ -19,7 +19,7 @@ Fichier utilisé ici : `airbnb-listings-simple.csv`
 
 ---
 
-## Outils
+##  Outils
 - Python
 - Pandas
 - Matplotlib
@@ -27,7 +27,7 @@ Fichier utilisé ici : `airbnb-listings-simple.csv`
 
 ---
 
-## Analyses réalisées
+##  Analyses réalisées
 
 - Calcul du prix moyen global
 - Analyse du prix moyen par pays
@@ -37,7 +37,7 @@ Fichier utilisé ici : `airbnb-listings-simple.csv`
 
 ---
 
-## Résultats principaux
+##  Résultats principaux
 
 - Les logements entiers sont les plus chers
 - Certaines villes présentent des prix très élevés (ex : Hong Kong)
@@ -45,9 +45,8 @@ Fichier utilisé ici : `airbnb-listings-simple.csv`
 
 ---
 
-## Visualisations
 
-## Visualisation – 
+##  Visualisation – 
 
 Prix moyen par pays
 
