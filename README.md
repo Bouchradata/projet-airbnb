@@ -64,7 +64,7 @@ Top 10 des pays avec le plus d'offre
 
 ---
 
-##Conclusion
+## Conclusion
 
 Pour maximiser la rentabilité d’un investissement Airbnb :
 - privilégier les villes avec des prix élevés 
@@ -73,7 +73,7 @@ Pour maximiser la rentabilité d’un investissement Airbnb :
 
 ---
 
-##Compétences développées
+## Compétences développées
 
 - Nettoyage de données
 - Analyse exploratoire (EDA)
